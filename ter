@@ -1,0 +1,84 @@
+*   [33mcommit 7e0b940fc7f9d22e8dbede2d858ce67a3438bfe7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: f8a9ca8 47d5c6b
+[31m|[m [32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[31m|[m [32m|[m Date:   Thu Nov 15 19:43:27 2018 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     confilict fixed
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 47d5c6b26642a0f6b03dd4e0e974ca7cf965f9b7[m
+[31m|[m [32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[31m|[m [32m|[m Date:   Thu Nov 15 19:36:56 2018 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     AND simple
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit f8a9ca88ff063c5e7ce678e19b4c890e8a2d7df4[m
+[32m|[m[32m/[m  Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m   Date:   Thu Nov 15 19:39:55 2018 +0800
+[32m|[m   
+[32m|[m       &simple
+[32m|[m 
+* [33mcommit 437ea256fe39d73743ab616717650f7f577da601[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 19:28:21 2018 +0800
+[32m|[m 
+[32m|[m     branch test
+[32m|[m 
+* [33mcommit 8a1fe553ca745e568d91f226cb34fb9e8b80e9c0[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 19:26:34 2018 +0800
+[32m|[m 
+[32m|[m     branch test
+[32m|[m 
+* [33mcommit b1788b78314c12029e2796b77a45857c82fffa2e[m[33m ([m[1;31morigin/master[m[33m)[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 19:05:40 2018 +0800
+[32m|[m 
+[32m|[m     add test.txt
+[32m|[m 
+* [33mcommit 15d2a8790d9babbec0d382ce8c8dc53cbe0857ee[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 17:08:54 2018 +0800
+[32m|[m 
+[32m|[m     remove test.txt
+[32m|[m 
+* [33mcommit 88803a866121b0e405b96001c1a0f2404f6aa19f[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 17:06:45 2018 +0800
+[32m|[m 
+[32m|[m     add test.txt
+[32m|[m 
+* [33mcommit 607dbf387209543182aa89aa845a68da047a5786[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 16:43:52 2018 +0800
+[32m|[m 
+[32m|[m     git tracks changes of files
+[32m|[m 
+* [33mcommit 9ebaf195c5789184662539dcabac95ea1e169f7e[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 16:41:10 2018 +0800
+[32m|[m 
+[32m|[m     git tracks changes
+[32m|[m 
+* [33mcommit f7a866d6c1b1f4e3af80f3fad6bab4085cc6c2d1[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 16:36:46 2018 +0800
+[32m|[m 
+[32m|[m     understand how stage works
+[32m|[m 
+* [33mcommit 33474e273e874e900ee14c627a6aeb35a23ecaad[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 16:11:48 2018 +0800
+[32m|[m 
+[32m|[m     append GPL
+[32m|[m 
+* [33mcommit 8e2123318c615861fbb79b9989c05cc3bf25b402[m
+[32m|[m Author: Jianfu_Yang <1354101540@qq.com>
+[32m|[m Date:   Thu Nov 15 15:56:02 2018 +0800
+[32m|[m 
+[32m|[m     add distributed
+[32m|[m 
+* [33mcommit 1a94458bfc6b6533a7f6e49fc4fbdd43a43eeb14[m
+  Author: Jianfu_Yang <1354101540@qq.com>
+  Date:   Thu Nov 15 15:51:47 2018 +0800
+  
+      wrote a readme file
